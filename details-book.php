@@ -49,7 +49,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="requestForApproveModalLabel">Request to Purchase</h5>
+                <h5 class="modal-title" id="requestForApproveModalLabel">Request to Purchase: Submit your payment proof and email for approval. Upload an image of your payment and provide your email address to complete the transaction.</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
